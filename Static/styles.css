@@ -12,12 +12,12 @@ h1 {
 
 .panel {
    background-color: rgb(234, 240, 240);
-   border: midnightblue; 
+   border: rgb(25, 99, 112); 
 }
 
 .well {
     background-color: rgb(234, 240, 240);
-    border: midnightblue;
+    border: rgb(112, 53, 25);
 }
 
 .container {
