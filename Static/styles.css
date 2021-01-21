@@ -8,6 +8,7 @@
 h1 {
     font-size: 50px;
     font-weight: bold;
+    border: rgb(35, 112, 25); 
 }
 
 .panel {
